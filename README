@@ -1,0 +1,27 @@
+This is my first ever attempt at creating a NODE.js web app, and also my first time to use github.
+To create this app I flowed a tutorial from www.scotch.io written by Chris Sevilleja.
+
+
+This app was created using a M.E.A.N stack, meaning MongoDB, Express, Angular, and Node.js. 
+
+
+PREREQUISITES----------------------------------------------------------------------------------
+1. download and install MEAN from ( www.mean.io/#!/ )
+2. install nodemon so that you can modify files on the fly and have the app updated right away.
+-run command (npm install -g nodemon)
+
+HOW TO RUN-------------------------------------------------------------------------------------
+
+1. to start the app run command (nodemon server.js) you should see the message "app listening on port 8080" if it is up and running properly
+2. to use app go to your web browser and go to (localhost:8080)
+3. to add a new entry simply type a name into the text field then click add
+4. to remove an entry check the box next to the entry you wish to delete
+
+OTHER THOUGHTS---------------------------------------------------------------------------------
+
+This project was a test to see if I could implement a web app. 
+Due to this it is not by any means a finished polished product.
+The mongo database is being hosted on modulus.io so there should already be some sample data to play with. 
+Please free to add and remove whatever data you wish. 
+
+If you have any questions please contact me via email nathan.devoll@gmail.com
