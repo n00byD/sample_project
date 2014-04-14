@@ -1,0 +1,11 @@
+{
+"name"            :"node-movies",
+"version"         :"0.0.0",
+"description"     :"Simple movie collection appplication",
+"main"            :"server.js",
+"author"          :"Nathan",
+"dependencies"    :{
+	"express" :"~3.4.4",
+	"mongoose":"~3.6.2"
+	}
+}
